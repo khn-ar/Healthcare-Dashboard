@@ -2,7 +2,6 @@
 
 Healthcare Sales Ops Dashboard - Targets vs. Actuals
 
---
 
 ## Methodolgy:
 - Conditional Formatting
